@@ -172,7 +172,7 @@
             this.lstUsers.Location = new System.Drawing.Point(538, 33);
             this.lstUsers.Name = "lstUsers";
             this.lstUsers.SelectionMode = System.Windows.Forms.SelectionMode.MultiSimple;
-            this.lstUsers.Size = new System.Drawing.Size(233, 368);
+            this.lstUsers.Size = new System.Drawing.Size(233, 394);
             this.lstUsers.TabIndex = 5;
             // 
             // MainForm
